@@ -1,0 +1,11 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\obj\Debug\ObjectPractice.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\obj\Debug\ObjectPractice.csproj.CopyComplete
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\ObjectPractice.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\ObjectPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\bin\Debug\ObjectPractice.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\obj\Debug\ObjectPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\ObjectPractice\EF6CodeFirstDemo\obj\Debug\ObjectPractice.pdb
