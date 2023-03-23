@@ -1,0 +1,15 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfoInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfo.cs
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.deps.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.dev.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\ref\Scores.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\bin\Debug\net5.0\Scores.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\ref\Scores.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Scores\Scores\obj\Debug\net5.0\Scores.genruntimeconfig.cache
